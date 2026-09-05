@@ -1,0 +1,6 @@
+{
+  "name": "Absensi Karyawan",
+  "description": "Aplikasi Absensi Karyawan Native dengan Kotlin, Jetpack Compose, database Room offline, dan auto sinkronisasi ke Firebase",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
